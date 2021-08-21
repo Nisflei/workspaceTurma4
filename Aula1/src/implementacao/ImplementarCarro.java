@@ -10,7 +10,7 @@ public class ImplementarCarro {
 		
 		carro.equipe = "Ferrari";
 		
-		carro.cor = "vermelho";
+		carro.cor = "vermelho"; 
 		
 		System.out.println("Carro-Equipe: " + carro.equipe );
 		
