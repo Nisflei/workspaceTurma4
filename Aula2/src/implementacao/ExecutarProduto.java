@@ -23,6 +23,7 @@ public class ExecutarProduto {
 		mouse.setMarca("Dell");
 		
 		// mouse.valor = -150.0f; problema
+		
 		mouse.setValor(-150.0f);
 		
 		System.out.println(mouse.detalhe());
