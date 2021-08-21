@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import beans.Produto;
 
-public class ExcutarProduto3 {
+public class ExecutarProduto3 {
 
 		public static String texto(String msg) {
 			return JOptionPane.showInputDialog(msg);
