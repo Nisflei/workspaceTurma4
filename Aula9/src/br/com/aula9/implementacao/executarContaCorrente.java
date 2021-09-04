@@ -12,9 +12,14 @@ public class executarContaCorrente {
 			// obter o valor via tela
 			// fazer tratamento para valores errados
 			// deve continuar no laço... 
-			cc.depositar(0);
-			cc.sacar(0);
-			
+			try {
+				cc.depositar(0);
+				cc.sacar(0);
+			}catch(Exception e) {
+				//
+				System.out.println(e.getMessage());
+			}
+			resp=false;
 		}
 	}
 

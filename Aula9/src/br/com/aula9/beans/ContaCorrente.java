@@ -22,8 +22,9 @@ public class ContaCorrente {
 		return true;
 	}
 	
-	public void depositar(double valor) {
-		
+	public void depositar(double valor) throws Exception {
+		//fazer a consistencia e colocar a exception	
+		throw new Exception("valor não permitido é menor");			
 	}
 }
 
