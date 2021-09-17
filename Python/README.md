@@ -1,4 +1,10 @@
-#Bem vindo..!
+# Bem vindo!
 
-Aqui voce encontrar os codigos e exemplos utilizados em aula sobre PYTHON
+## Python Class
 
+- Aqui voce consegui obter os codigos utilizados durante as aulas :)
+
+
+- Obrigado pela Visita.
+
+- Divirta-se !! o/
