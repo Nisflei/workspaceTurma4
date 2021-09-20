@@ -1,7 +1,7 @@
 package implementacao;
 
 import beans.Produto;
-import util.Input;
+import br.com.aula3.util.Input;
 
 public class ExecutarProdutoUtil {
 
